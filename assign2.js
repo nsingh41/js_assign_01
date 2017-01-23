@@ -14,7 +14,7 @@ Sin.push(Number(Nvi[2]));
 Sin.push(Number(Nvi[3]));
 
 
-let k = Number(Nvi[2])+ Number(Nvi[3]);
+let k = Sin[1]+ Sin[2];
 
 
 console.log(k);
